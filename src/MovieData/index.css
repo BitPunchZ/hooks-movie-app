@@ -1,0 +1,13 @@
+.movie-info {
+  font-size: 20px;
+  display: flex;
+}
+.info-section label {
+  color: rgba(0, 0, 0, 0.5);
+  margin: 5px;
+}
+
+.info-section span {
+  font-weight: bold;
+  margin: 5px;
+}
