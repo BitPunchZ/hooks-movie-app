@@ -1,8 +1,8 @@
 import React from "react";
 import "./index.css";
 
-function MetaData() {
-  return <div>MetaData goes here</div>;
+function MovieData() {
+  return <div>MovieData goes here</div>;
 }
 
-export default MetaData;
+export default MovieData;
